@@ -1,4 +1,9 @@
-
+/*!
+ * Palindrome Checker Web App
+ * Copyright (c) 2025 Your Name
+ * Licensed under the Apache License 2.0
+ * See LICENSE file for more information.
+ */
 
 function checkResult() {
     const text = document.getElementById("text-input").value;
